@@ -15,6 +15,11 @@ function Home() {
             <WhiteText>VaraiantsPage</WhiteText>
           </Link>
         </li>
+        <li>
+          <Link to={`variants2`}>
+            <WhiteText>VaraiantsPage2</WhiteText>
+          </Link>
+        </li>
       </ul>
     </div>
   );
