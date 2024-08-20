@@ -20,6 +20,11 @@ function Home() {
             <WhiteText>VaraiantsPage2</WhiteText>
           </Link>
         </li>
+        <li>
+          <Link to={`gestures`}>
+            <WhiteText>GesturesPage</WhiteText>
+          </Link>
+        </li>
       </ul>
     </div>
   );
